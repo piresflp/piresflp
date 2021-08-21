@@ -1,4 +1,5 @@
 
+
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://github.com/piresflp/"><img align="right" src="https://img.shields.io/github/followers/piresflp?style=social&logo=github" alt="Follow on Github"></a>
 
 I'm Felipe Pires, a passionate back-end developer and an aspiring software engineer from Brazil. My passion for software lies with having the capability to build anything and impact other people's lives with my apps. I take great care in the experience, architecture, and code quality of the things I build.
@@ -8,17 +9,26 @@ I'm Felipe Pires, a passionate back-end developer and an aspiring software engin
 
 ---
 ### 🧭 Favorite Languages and Tools:
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" height="25" /> </a> <a href="https://dotnet.microsoft.com/" target="_blank" style="text-decoration:  none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="25" height="25" style="margin-left: 10px"/> </a> <a href="https://www.java.com" target="_blank" style="text-decoration:  none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25" style="margin-left: 10px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" style="margin-left: 10px"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="25" height="25" style="margin-left: 10px"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" style="margin-left: 10px"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25" style="margin-left: 10px"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" style="margin-left: 10px"/> </a> </p>
+<div style="display: flex; justify-content: space-between;">
+	 <img align="center" title="Java" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+	 <img align="center" title="Kotlin" alt="" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kotlin/kotlin-original.svg">	 
+  <img align="center" title="Csharp" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" title="Python" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" title="ASP.NET" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">  
+  <img align="center" title="Tensorflow" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" title="Android" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/android/android-original.svg"> 
+  <img align="center" title="NodeJS" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
+  <img align="center" title="JavaScript" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  
+</div>
 
 ---
-### 🗣️ Connect with me
-<a target="_blank" href="https://www.linkedin.com/in/felipe-pires-araujo/">
-  <img align="left" alt="Felipe's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a target="_blank" href="https://open.spotify.com/user/12174767337?si=2dd587e629eb41c6">
-  <img align="left" alt="Felipe's Spotify" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" style="margin-left: 10px" />
-</a>
-
-<br/>
+### 🗣️ Connect with me:
+<div>
+	<a target="_blank" href="https://www.linkedin.com/in/felipe-pires-araujo/"> <img alt="Felipe's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<a target="_blank" href="https://open.spotify.com/user/12174767337?si=2dd587e629eb41c6">  <img alt="Felipe's Spotify" src="https://img.shields.io/badge/_Spotify_-1ED760?style=for-the-badge&logo=spotify"/>
+	</a>
+</div>
 
 ---

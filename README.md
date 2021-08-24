@@ -9,7 +9,7 @@ I'm Felipe Pires, a passionate back-end developer and an aspiring software engin
 -  📫 How to reach me: **contact.felipepires@gmail.com**
 
 ---
-### 🧭 Favorite Languages and Tools:
+### 👨‍💻 Favorite Languages and Tools:
 <div style="display: flex; justify-content: space-between;">
 	 <img align="center" title="Java" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 	 <img align="center" title="Kotlin" alt="" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kotlin/kotlin-original.svg">	 

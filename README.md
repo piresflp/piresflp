@@ -29,6 +29,9 @@ I'm Felipe Pires, a passionate back-end developer and an aspiring software engin
 	</a>
 	<a target="_blank" href="https://open.spotify.com/user/12174767337?si=2dd587e629eb41c6">  <img alt="Felipe's Spotify" src="https://img.shields.io/badge/_Spotify_-1ED760?style=for-the-badge&logo=spotify"/>
 	</a>
+	<a target="_blank" href="https://www.instagram.com/piresflp/">  <img alt="Felipe's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+	</a>
+ </a>
 </div>
 
 ---

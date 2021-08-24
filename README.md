@@ -1,15 +1,19 @@
+
 ### Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://github.com/piresflp/"><img align="right" src="https://img.shields.io/github/followers/piresflp?style=social&logo=github" alt="Follow on Github"></a>
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif" width="350px" height=""/>
 
 I'm Felipe Pires, a passionate back-end developer and an aspiring software engineer from Brazil. My passion for software lies with having the capability to build anything and impact other people's lives with my apps. I take great care in the experience, architecture, and code quality of the things I build.
 
-
+- 📚 I’m currently learning Machine Learning and everything about back-end technologies.
+- 💪🏼 Future Goals: Learn as much as possible about software engineering in general and enter the jobmarket as an intern.
+- ⚡ Fun fact: I love extreme sports.
 - 💬 I love connecting with new people, so if you want to say hi, I'll be happy to meet you! :)
--  📫 How to reach me: **contact.felipepires@gmail.com**
+- 📫 How to reach me: **contact.felipepires@gmail.com**
+
 
 ---
-### 👨‍💻 Favorite Languages and Tools:
+###  👨‍💻 Favorite Languages and Tools:
 <div style="display: flex; justify-content: space-between;">
 	 <img align="center" title="Java" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 	 <img align="center" title="Kotlin" alt="" height="35" width="50" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kotlin/kotlin-original.svg">	 

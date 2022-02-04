@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--uxqgfA7M--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/idrudmils3eo9di1a59u.gif" width="350px" height=""/>
 
-I'm Felipe Pires, a passionate back-end developer and an aspiring software engineer from Brazil. My passion for software lies with having the capability to build anything and impact other people's lives with my apps. I take great care in the experience, architecture, and code quality of the things I build.
+I'm Felipe Pires, a passionate developer and an aspiring software engineer from Brazil. My passion for software lies with having the capability to build anything and impact other people's lives with my apps. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 📚 I’m currently learning Machine Learning and everything about back-end technologies.
 - 💪🏼 Future Goals: Learn as much as possible about software engineering in general and enter the jobmarket as an intern.

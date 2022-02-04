@@ -6,7 +6,7 @@
 I'm Felipe Pires, a passionate developer and an aspiring software engineer from Brazil. My passion for software lies with having the capability to build anything and impact other people's lives with my apps. I take great care in the experience, architecture, and code quality of the things I build.
 
 - 📚 I’m currently learning Machine Learning and everything about back-end technologies.
-- 💪🏼 Future Goals: Learn as much as possible about software engineering in general and enter the jobmarket as an intern.
+- 💪🏼 Future Goals: Learn as much as possible about software engineering in general and explore different jobmarket's areas.
 - ⚡ Fun fact: I love extreme sports.
 - 💬 I love connecting with new people, so if you want to say hi, I'll be happy to meet you! :)
 - 📫 How to reach me: **contact.felipepires@gmail.com**
